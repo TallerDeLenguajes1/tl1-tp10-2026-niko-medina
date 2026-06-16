@@ -22,7 +22,8 @@ foreach(Tarea tarea in tareas){
 // serializar y guardar en tareas.json
 string json = JsonSerializer.Serialize(tareas);
 Console.WriteLine(json);
-
+string archivo = "./tareas.json";
+File.WriteAllText(archivo, json);
 
 static async Task<List<Tarea>> GetTareas(){
     var url = "https://jsonplaceholder.typicode.com/todos/";
