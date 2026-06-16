@@ -20,8 +20,8 @@ foreach(Tarea tarea in tareas){
 }
 
 // serializar y guardar en tareas.json
-string json = JsonSerializer.Serialize(tareas);
-Console.WriteLine(json);
+var options = new JsonSerializerOptions {WriteIndented = true};
+string json = JsonSerializer.Serialize(tareas, options);
 string archivo = "./tareas.json";
 File.WriteAllText(archivo, json);
 
