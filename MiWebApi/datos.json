@@ -1,0 +1,62 @@
+[
+  {
+    "type": "programming",
+    "setup": "What goes after USA?",
+    "punchline": "USB.",
+    "id": 383
+  },
+  {
+    "type": "programming",
+    "setup": "Why did the developer go to therapy?",
+    "punchline": "They had too many unresolved issues.",
+    "id": 444
+  },
+  {
+    "type": "programming",
+    "setup": "Why don\u0027t programmers like nature?",
+    "punchline": "There\u0027s too many bugs.",
+    "id": 419
+  },
+  {
+    "type": "programming",
+    "setup": "How many programmers does it take to change a lightbulb?",
+    "punchline": "None that\u0027s a hardware problem",
+    "id": 24
+  },
+  {
+    "type": "programming",
+    "setup": "Why did the developer break up with their keyboard?",
+    "punchline": "It just wasn\u0027t their type anymore.",
+    "id": 447
+  },
+  {
+    "type": "programming",
+    "setup": "Why did the programmer quit his job?",
+    "punchline": "Because he didn\u0027t get arrays.",
+    "id": 18
+  },
+  {
+    "type": "programming",
+    "setup": "What do you get when you cross a React developer with a mathematician?",
+    "punchline": "A function component.",
+    "id": 412
+  },
+  {
+    "type": "programming",
+    "setup": "Why did the programmer bring a broom to work?",
+    "punchline": "To clean up all the bugs.",
+    "id": 446
+  },
+  {
+    "type": "programming",
+    "setup": "Why did the programmer\u0027s wife leave him?",
+    "punchline": "He didn\u0027t know how to commit.",
+    "id": 415
+  },
+  {
+    "type": "programming",
+    "setup": "Which song would an exception sing?",
+    "punchline": "Can\u0027t catch me - Avicii",
+    "id": 32
+  }
+]
